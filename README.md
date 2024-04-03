@@ -9,6 +9,7 @@ Each certificate represents a milestone in my journey, showcasing my commitment 
 
 - [Certificates](#certificates)
   - [Google](#google)
+  - [CC](#ISC2)
   - [Meta](#meta)
   - [University of California](#university-of-california)
   - [IBM](#ibm)
@@ -19,6 +20,7 @@ Each certificate represents a milestone in my journey, showcasing my commitment 
 ## Certificates
 
 ### Google Cybersecurity
+### Certified in Cybersecurity (CC) by ISC2
 ### Google Data Analytics
 ### Introduction to Information Technology and AWS Cloud
 ### Human Resources Analytics 
